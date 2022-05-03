@@ -1,0 +1,2 @@
+for _ in rang(10):
+    print('Hello World')
